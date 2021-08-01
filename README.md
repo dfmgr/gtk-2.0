@@ -5,7 +5,7 @@ GTK, or the GIMP Toolkit, is a multi-platform toolkit for creating graphical use
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/gtk-2.0/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/gtk-2.0/raw/main/install.sh)"
 ```
 
 Manual install:
